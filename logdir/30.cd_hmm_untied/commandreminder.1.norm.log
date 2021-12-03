@@ -1,0 +1,121 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-accumdir		/home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1,
+-constE		3.0	3.000000e+00
+-dcountfn		
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-inmeanfn		
+-inmixwfn		
+-invarfn		
+-meanfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/means
+-mixwfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/mixture_weights
+-mmie		no	no
+-oaccumdir		
+-regmatfn		
+-tiedvar	no	no
+-tmatfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/transition_matrices
+-varfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/variances
+
+INFO: main.c(207): Reading and accumulating counts from /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1
+INFO: s3mixw_io.c(117): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/mixw_counts [3183x4x64 array]
+INFO: s3tmat_io.c(118): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/tmat_counts [31x3x4 array]
+INFO: s3gau_io.c(386): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/gauden_counts with means with vars (2pass) [31x4x64 vector arrays]
+INFO: main.c(321): -2passvar yes
+INFO: main.c(391): Normalizing mean for n_mgau= 31, n_stream= 4, n_density= 64
+WARN: "gauden.c", line 1565: (mgau= 3, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 15) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 18) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 31) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 45) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 3) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 8) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 9) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 11) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 23) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 28) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 31) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 37) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 7, feat= 2, density= 46) never observed
+WARN: "gauden.c", line 1565: (mgau= 7, feat= 2, density= 57) never observed
+WARN: "gauden.c", line 1565: (mgau= 8, feat= 2, density= 57) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 1, density= 21) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 8) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 12) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 15) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 29) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 38) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 50) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 2, density= 57) never observed
+WARN: "gauden.c", line 1565: (mgau= 14, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 16, feat= 2, density= 2) never observed
+WARN: "gauden.c", line 1565: (mgau= 16, feat= 2, density= 14) never observed
+WARN: "gauden.c", line 1565: (mgau= 20, feat= 2, density= 8) never observed
+WARN: "gauden.c", line 1565: (mgau= 20, feat= 2, density= 26) never observed
+WARN: "gauden.c", line 1565: (mgau= 20, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 20, feat= 2, density= 47) never observed
+WARN: "gauden.c", line 1565: (mgau= 20, feat= 2, density= 57) never observed
+WARN: "gauden.c", line 1565: (mgau= 21, feat= 2, density= 7) never observed
+WARN: "gauden.c", line 1565: (mgau= 21, feat= 2, density= 33) never observed
+WARN: "gauden.c", line 1565: (mgau= 21, feat= 2, density= 39) never observed
+WARN: "gauden.c", line 1565: (mgau= 21, feat= 2, density= 57) never observed
+WARN: "gauden.c", line 1565: (mgau= 22, feat= 2, density= 48) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 3) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 10) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 26) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 29) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 31) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 47) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 2, density= 50) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 21) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 26) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 27) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 33) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 34) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 41) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 44) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 54) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 12) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 35) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 51) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 56) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 8) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 10) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 11) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 12) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 20) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 26) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 29) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 32) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 48) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 53) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 54) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 2, density= 60) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 3, density= 39) never observed
+WARN: "gauden.c", line 1565: (mgau= 27, feat= 2, density= 29) never observed
+WARN: "gauden.c", line 1565: (mgau= 27, feat= 2, density= 38) never observed
+WARN: "gauden.c", line 1565: (mgau= 27, feat= 2, density= 40) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 4) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 28) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 34) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 41) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 42) never observed
+WARN: "gauden.c", line 1565: (mgau= 29, feat= 2, density= 62) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 1, density= 54) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 2, density= 3) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 2, density= 9) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 2, density= 20) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 2, density= 45) never observed
+WARN: "gauden.c", line 1565: (mgau= 30, feat= 2, density= 57) never observed
+INFO: main.c(414): Normalizing var
+INFO: s3mixw_io.c(233): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/mixture_weights [3183x4x64 array]
+INFO: s3tmat_io.c(176): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/transition_matrices [31x3x4 array]
+INFO: s3gau_io.c(228): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/means [31x4x64 array]
+INFO: s3gau_io.c(228): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_untied/variances [31x4x64 array]
+Fri Dec  3 07:37:35 2021
+Current Overall Likelihood Per Frame = -201.871331224854

@@ -1,0 +1,264 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/home/azhar/Tubes_Speech/commandreminder/etc/commandreminder_test.fileids
+-cep2spec		no		no
+-di					/home/azhar/Tubes_Speech/commandreminder/wav
+-dither			no		no
+-do					/home/azhar/Tubes_Speech/commandreminder/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		2.0		2.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(967): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_001.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_001.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_002.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_002.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_003.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_003.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_004.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_004.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_005.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_005.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_006.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_006.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_007.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_007.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_008.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_008.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_009.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_009.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_010.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_010.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_011.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_011.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_012.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_012.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_013.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_013.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_014.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_014.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_015.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_015.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_016.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_016.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_017.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_017.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_018.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_018.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_019.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_019.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_020.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_020.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_021.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_021.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_022.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_022.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_023.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_023.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_024.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_024.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_025.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_025.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_026.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_026.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_027.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_027.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_028.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_028.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_029.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_029.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_030.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_030.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_031.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_031.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_032.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_032.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_033.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_033.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_034.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_034.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_035.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_035.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_036.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_036.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_037.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_037.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_038.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_038.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_039.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_039.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_040.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_040.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_041.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_041.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_042.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_042.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_043.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_043.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_044.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_044.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_045.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_045.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_046.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_046.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_047.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_047.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_048.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_048.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_049.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_049.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_050.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_050.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_051.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_051.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_052.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_052.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_053.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_053.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_054.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_054.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_055.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_055.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_056.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_056.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_057.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_057.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_058.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_058.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_059.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_059.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_060.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_060.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_061.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_061.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_062.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_062.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_063.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_063.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_064.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_064.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_065.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_065.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_066.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_066.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_067.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_067.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_068.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_068.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_069.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_069.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_070.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_070.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_071.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_071.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_072.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_072.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_073.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_073.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_074.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_074.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_075.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_075.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_076.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_076.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_077.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_077.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_078.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_078.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_079.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_079.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_080.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_080.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_081.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_081.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_082.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_082.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_083.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_083.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_084.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_084.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_085.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_085.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_086.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_086.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_087.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_087.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_088.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_088.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_089.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_089.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_090.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_090.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_091.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_091.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_092.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_092.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_093.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_093.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_094.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_094.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_095.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_095.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_096.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_096.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_097.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_097.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_098.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_098.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_099.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_099.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_100.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_100.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_101.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_101.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/nilam/nilam_102.wav to /home/azhar/Tubes_Speech/commandreminder/feat/nilam/nilam_102.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_001.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_001.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_002.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_002.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_003.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_003.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_004.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_004.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_005.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_005.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_006.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_006.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_007.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_007.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_008.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_008.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_009.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_009.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_010.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_010.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_011.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_011.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_012.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_012.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_013.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_013.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_014.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_014.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_015.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_015.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_016.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_016.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_017.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_017.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_018.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_018.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_019.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_019.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_020.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_020.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_021.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_021.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_022.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_022.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_023.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_023.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_024.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_024.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_025.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_025.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_026.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_026.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_027.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_027.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_028.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_028.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_029.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_029.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_030.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_030.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_031.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_031.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_032.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_032.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_033.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_033.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_034.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_034.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_035.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_035.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_036.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_036.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_037.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_037.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_038.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_038.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_039.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_039.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_040.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_040.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_041.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_041.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_042.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_042.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_043.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_043.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_044.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_044.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_045.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_045.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_046.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_046.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_047.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_047.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_048.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_048.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_049.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_049.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_050.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_050.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_051.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_051.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_052.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_052.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_053.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_053.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_054.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_054.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_055.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_055.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_056.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_056.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_057.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_057.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_058.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_058.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_059.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_059.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_060.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_060.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_061.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_061.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_062.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_062.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_063.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_063.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_064.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_064.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_065.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_065.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_066.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_066.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_067.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_067.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_068.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_068.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_069.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_069.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_070.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_070.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_071.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_071.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_072.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_072.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_073.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_073.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_074.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_074.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_075.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_075.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_076.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_076.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_077.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_077.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_078.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_078.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_079.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_079.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_080.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_080.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_081.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_081.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_082.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_082.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_083.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_083.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_084.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_084.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_085.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_085.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_086.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_086.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_087.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_087.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_088.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_088.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_089.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_089.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_090.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_090.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_091.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_091.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_092.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_092.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_093.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_093.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_094.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_094.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_095.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_095.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_096.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_096.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_097.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_097.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_098.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_098.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_099.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_099.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_100.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_100.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_101.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_101.mfc
+INFO: sphinx_fe.c(787): Converting /home/azhar/Tubes_Speech/commandreminder/wav/surya/surya_102.wav to /home/azhar/Tubes_Speech/commandreminder/feat/surya/surya_102.mfc
+Fri Dec  3 07:26:01 2021

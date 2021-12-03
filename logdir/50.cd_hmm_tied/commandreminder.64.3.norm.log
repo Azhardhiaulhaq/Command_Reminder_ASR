@@ -1,0 +1,70 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-accumdir		/home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_2,/home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1,
+-constE		3.0	3.000000e+00
+-dcountfn		
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-inmeanfn		
+-inmixwfn		
+-invarfn		
+-meanfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/means
+-mixwfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/mixture_weights
+-mmie		no	no
+-oaccumdir		
+-regmatfn		
+-tiedvar	no	no
+-tmatfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/transition_matrices
+-varfn			/home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/variances
+
+INFO: main.c(207): Reading and accumulating counts from /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_2
+INFO: s3mixw_io.c(117): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_2/mixw_counts [293x4x64 array]
+INFO: s3tmat_io.c(118): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_2/tmat_counts [31x3x4 array]
+INFO: s3gau_io.c(386): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_2/gauden_counts with means with vars (2pass) [31x4x64 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1
+INFO: s3mixw_io.c(117): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/mixw_counts [293x4x64 array]
+INFO: s3tmat_io.c(118): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/tmat_counts [31x3x4 array]
+INFO: s3gau_io.c(386): Read /home/azhar/Tubes_Speech/commandreminder/bwaccumdir/commandreminder_buff_1/gauden_counts with means with vars (2pass) [31x4x64 vector arrays]
+INFO: main.c(321): -2passvar yes
+INFO: main.c(391): Normalizing mean for n_mgau= 31, n_stream= 4, n_density= 64
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 0, density= 50) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 15) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 18) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 31) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 38) never observed
+WARN: "gauden.c", line 1565: (mgau= 6, feat= 1, density= 45) never observed
+WARN: "gauden.c", line 1565: (mgau= 13, feat= 1, density= 21) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 1, density= 8) never observed
+WARN: "gauden.c", line 1565: (mgau= 23, feat= 1, density= 39) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 4) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 17) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 21) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 26) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 27) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 33) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 34) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 43) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 44) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 52) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 0, density= 54) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 3) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 12) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 24) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 31) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 35) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 36) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 51) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 53) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 1, density= 56) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 3, density= 7) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 3, density= 39) never observed
+WARN: "gauden.c", line 1565: (mgau= 26, feat= 3, density= 54) never observed
+INFO: main.c(414): Normalizing var
+INFO: s3mixw_io.c(233): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/mixture_weights [293x4x64 array]
+INFO: s3tmat_io.c(176): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/transition_matrices [31x3x4 array]
+INFO: s3gau_io.c(228): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/means [31x4x64 array]
+INFO: s3gau_io.c(228): Wrote /home/azhar/Tubes_Speech/commandreminder/model_parameters/commandreminder.cd_ptm_200/variances [31x4x64 array]
+Fri Dec  3 07:41:09 2021
+Current Overall Likelihood Per Frame = -196.950628992567
+Convergence ratio = 0.205054501547608
